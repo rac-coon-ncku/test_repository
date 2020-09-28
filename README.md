@@ -6,3 +6,4 @@ This line is added after dev_branch is made.
 This line is added at test_branch.
 
 ## I'm developing on branch ST
+New feature is done.
